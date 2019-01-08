@@ -1,3 +1,5 @@
+# This lab has been put on hold while course material is being updated
+
 In this lab, you will combine two concepts:
 
 - Building and serving an API using Express
