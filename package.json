@@ -12,6 +12,18 @@
   },
   "author": "Patrick Hogan",
   "license": "ISC",
+  "dependencies": {
+    "babel-cli": "*",
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*",
+    "express": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-router-dom": "*",
+    "webpack": "*"
+  },
   "bugs": {
     "url": "https://github.com/L3p1989/Prepping-for-Full-Stack/issues"
   },
